@@ -24,8 +24,8 @@ st.write(
 st.write("\n")
 
 st.write("""Agradecimentos especiais a Ran Aroussi pelo trabalho fantástico
-    no desenvolvimento do pacote yfinance, que permite a extração de dados
-    de ações listadas na B3. Também agradeço a todos os desenvolvedores
-    do Streamlit, especialmente Thiago Teixeira (tvst) e Adrien Treuille, 
-    que tornaram possível a criação deste aplicativo."""
+    no desenvolvimento do biblioteca yfinance, que permite a extração de dados
+    de ações listadas na B3. Também agradeço a todos os desenvolvedores do 
+    framework Streamlit, especialmente Thiago Teixeira (tvst) e Adrien Treuille, 
+    que facilitaram muito a criação deste aplicativo."""
 )
