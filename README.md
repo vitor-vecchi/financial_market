@@ -1,2 +1,2 @@
-# financial_market
+# Financial Market Apps
 Exclusive for testing
