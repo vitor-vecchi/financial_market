@@ -9,7 +9,7 @@ st.subheader('Indicadores relevantes')
 def main():
     stock = st.text_input('Informe o ticker da ação:', '')
     global stock_yf
-    stock_yf = yf.Ticker(stock)
+    stock_yf = yf.Ticker(stock + ".SA")
     
     if st.button('Enviar'):
         def calc():
